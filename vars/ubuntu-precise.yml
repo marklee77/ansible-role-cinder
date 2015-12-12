@@ -25,4 +25,3 @@ openstack_cinder_repo_info:
 openstack_cinder_services:
   - cinder-api
   - cinder-scheduler
-  - cinder-volume
